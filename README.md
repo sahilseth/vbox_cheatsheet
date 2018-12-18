@@ -4,6 +4,13 @@
 ssh 'machine'
 ```
 
+*windows users*: you can now use the built in openssh capabilites, via a windows update.
+
+https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/
+
+![](https://www.howtogeek.com/wp-content/uploads/2017/12/ximg_5a398e0ad8283.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.6GApmYRFJd.png)
+
+
 # listing vms
 
 ## get a list of running VMs
