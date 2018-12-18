@@ -2,6 +2,8 @@
 
 ```
 ssh 'machine'
+
+ssh -p 'dasdas' gaadi
 ```
 
 *windows users*: you can now use the built in openssh capabilites, via a windows update.
