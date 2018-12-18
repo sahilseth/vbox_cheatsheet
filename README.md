@@ -1,3 +1,8 @@
+# need get into the machine
+
+```
+ssh 'machine'
+```
 
 # listing vms
 
@@ -50,10 +55,6 @@ VBoxManage controlvm win10 poweroff
 
 ## then switch if back on
 VBoxManage startvm win10 --type headless
-```
-
-
-```
 ```
 
 Last time the VM became inaccessible
