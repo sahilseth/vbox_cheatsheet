@@ -73,6 +73,18 @@ VBoxManage startvm win10 --type headless
 Last time the VM became inaccessible
 
 ```
+cd VirtualBox\ VMs/win10
+
+# list all files
+ls
+
+# cd: change directory
+cd .. # do one up
+cd XXX # go into folder XX
+
+# get present WD
+pwd
+
 # had to copy over this file...
 cp win10.vbox-prev win10.vbox
 ```
