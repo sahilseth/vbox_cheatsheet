@@ -4,6 +4,10 @@
 ssh 'machine'
 
 ssh -p 'dasdas' gaadi
+
+ssh -p 'dasdas' sahilseth@tesla.XXXX
+
+
 ```
 
 *windows users*: you can now use the built in openssh capabilites, via a windows update.
